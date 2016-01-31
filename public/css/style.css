@@ -996,3 +996,27 @@ video {
     z-index: 100;
     color: #ffffff;
 }
+
+
+.graph-1{
+    background-image: url("../images/Graphs-1.png");
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 20%;
+    right: 4%;
+    height: 88%;
+    top: 3%;
+}
+
+.graph-2{
+    background-image: url("../images/Graphs-2.png");
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 70%;
+    right: 5%;
+    height: 86%;
+}
